@@ -1,6 +1,6 @@
 # Virtual_Keyboard(Still Working)
-When I go outside for travel or other work, I feel a bit hard to use mouse without mouse mat(such as in airport or some other place). <br>
-I am trying to build a virtual keyboard directly use CV, and trying to use them to play League of Legends X)!<br>
+When I go outside for travel or other work, I feel a bit hard to use mouse without mouse mat (Ex. in airport). <br>
+I am trying to build a virtual keyboard directly use CV, and trying to use them to play `League of Legends` X)!<br>
 So I here try to build a virtual keyboard use mediapipe and MiDas (Still Working, working around the clock). <br> 
 
 
